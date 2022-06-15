@@ -1,0 +1,249 @@
+body 
+{
+  background-color: black;
+  color: white;
+}
+
+h1 
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+h2
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+h3
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+h4
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+h5
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+h6
+{
+  font-family: verdana;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+p 
+{
+  color: white;
+  font-family: verdana;
+  font-size: 15px;
+  text-align: center;
+  background-color: black;
+}
+
+a
+{
+  color: red;
+  font-family: verdana;
+  font-size: 15px;
+  text-align: center;
+  background-color: black;
+}
+
+table 
+{
+  border: 1px solid white;
+  border-style:groove;
+  color: white;
+  text-align: center;
+}
+
+li{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: black;
+}
+
+ul
+{
+  color: white;
+  font-family: verdana;
+  margin-left: 47%;
+  margin-right: 70%;
+  background-color: black;
+}
+
+ol
+{
+  color: white;
+  font-family: verdana;
+  margin-left: 47%;
+  margin-right: 70%;
+  background-color: black;
+}
+
+caption
+{
+  font-family: verdana;
+  color: white;
+  background-color: black;
+}
+
+line
+{
+  color: white;
+}
+
+dl
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+
+dd
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+
+dt
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body,html{
+height: 100%;
+margin: 0;
+
+}
+
+.bg{
+  background-image: url(myheart_4K.gif);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+  background-attachment: fixed;
+}
+
+i{
+  text-align: center;
+
+}
+
+.tg  {
+  border-collapse:collapse;
+  border-spacing:0;
+  margin:0px auto;
+  border-color: #ffffff;
+}
+
+.tg td{
+  border-style:solid;
+  border-color: #ffffff;
+  border-width:0px;
+  font-family:verdana;
+  font-size:14px;
+  overflow:hidden;
+  padding:10px 20px;
+  word-break:normal;
+}
+
+.tg th{
+  border-style:solid;
+  border-width:0px;
+  font-family:verdana;
+  font-size:14px;
+  font-weight:normal;
+  overflow:hidden;
+  padding:10px 20px;
+  word-break:normal;
+  border-color: #ffffff;
+}
+
+.tg .tg-0usf{
+  background-color:#000000;
+  border-color:#ffffff;
+  color:#ffffff;
+  text-align:center;
+  vertical-align:top
+}
+
+.myheartbutton {
+	box-shadow: 4px 5px 0px 0px #1a41b8;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:verdana;
+	font-size:17px;
+	padding:6px 19px;
+	text-decoration:none;
+	text-shadow:0px 0px 11px #000000;
+}
+.myheartbutton:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.myheartbutton:active {
+	position:relative;
+	top:1px;
+}
+
+.voltar {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+	background-color:#ededed;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#777777;
+	font-family:verdana;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+	.voltar:hover {
+	background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+	background-color:#dfdfdf;
+}
+
+ .voltar:active {
+	position:relative;
+	top:1px;
+}
